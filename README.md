@@ -1,7 +1,16 @@
 # Threading-
 threading is the ability to create applications that use more than one thread of execution (entry point)
 
-Using 
+Using in 
+ 
+ 1-Make more than one entry point (Main method)
+ 
+ 2-Make more than one process in the backgroud and the same time 
+ 
+ 3-make interactions between the Threads bs  Multiple Threads 
+ 
+ There's more and more usage for it and different appereance for it  like Background and foreground thread .
+
 
   Example 1;
   
